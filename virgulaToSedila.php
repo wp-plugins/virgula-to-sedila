@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Virgulă To Sedilă
-Plugin URI: http://twitter.com/radubilei/
+Plugin URI: http://wordpress.org/extend/plugins/virgula-to-sedila/
 Description: Înlocuieşte diacriticele "corecte", cu virgulă, cu cele "incorecte", cu sedilă, dar care se afişează corespunzător şi în Windows XP. Inspirat de plugin-ul lui John Kilroy, XHTML to HTML - http://www.kilroyjames.co.uk/2008/07/xhtml-to-html-wordpress-plugin/
 Version: 0.1
 Author: Radu Bilei
