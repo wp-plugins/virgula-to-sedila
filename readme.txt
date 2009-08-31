@@ -2,7 +2,7 @@
 Contributors: radubilei
 Tags: română, diacritice, sedilă, virgulă 
 Requires at least: 2.0
-Tested up to: 2.8.3
+Tested up to: 2.8.4
 Stable tag: trunk
 
 Înlocuieşte diacriticele "corecte", cu virgulă, cu cele "incorecte", cu sedilă, dar care se afişează corespunzător şi în Windows XP.
